@@ -1,0 +1,10 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\bin\Release\Couples.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\bin\Release\Couples.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\bin\Release\Couples.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.Form.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\Couples\obj\Release\Couples.pdb
